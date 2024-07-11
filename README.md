@@ -18,6 +18,7 @@ If not set below in VS1011, then ignore the change:
    1. change VS1011 patch to VS1003 patch
    2. change SM_LAYER12 to SM_SETTOZERO 
 
+![VS1003-VS1011](https://github.com/tescsonaa/VS1011-Migrate-To-VS1003/assets/96901985/58f81414-c804-46aa-afa3-34a39fa4593f)
 
 
 
@@ -25,4 +26,6 @@ If not set below in VS1011, then ignore the change:
 Reference: 
 1. https://www.vlsi.fi/fileadmin/app_notes/migrate11to03.pdf 
 2. https://www.vlsi.fi/fileadmin/news/EOL_VS1011E_2023.pdf 
-3. https://www.unitedlink.hk/forum/vlsi-solution/vs1011-migrate-to-vs1003-sucess-story/ 
+3. https://www.unitedlink.hk/forum/vlsi-solution/vs1011-migrate-to-vs1003-sucess-story/
+4. https://www.vlsi.fi/fileadmin/datasheets/vs1003.pdf
+5. https://www.vlsi.fi/fileadmin/datasheets/vs1011.pdf 
