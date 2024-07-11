@@ -1,7 +1,7 @@
 VLSI VS1011 is End-of-Life. The easiest way to replace VS1011 is using VS1003. Here is the success story how to replace VS1011. 
 
 
-Hardware:
+### Hardware:
    1. Change CVDD voltage, CVDD voltage range 2.4V~2.85V 
    PS: VS1011 DVDD (Digital Power Supply) = VS1003 CVDD (Core Power Supply)  
 
