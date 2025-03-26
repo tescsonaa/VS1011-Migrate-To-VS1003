@@ -25,6 +25,8 @@ Software Changes (if not already set in VS1011):
 
 This summarizes the necessary changes for a smooth transition from VS1011 to VS1003, ensuring compatibility and potential audio quality improvement.
 
+![VS1003-VS1011](https://github.com/tescsonaa/VS1011-Migrate-To-VS1003/assets/96901985/58f81414-c804-46aa-afa3-34a39fa4593f)
+
 Reference: 
 1. https://www.vlsi.fi/fileadmin/app_notes/migrate11to03.pdf 
 2. https://www.vlsi.fi/fileadmin/news/EOL_VS1011E_2023.pdf 
