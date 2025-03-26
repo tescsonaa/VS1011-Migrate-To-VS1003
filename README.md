@@ -4,9 +4,13 @@ VLSI's VS1011 has been declared End-of-Life (EOL), and the easiest replacement o
 
 
 Hardware Changes:
+
     CVDD Voltage:
+    
         Change CVDD voltage to 2.4V–2.85V.
+        
         Note: VS1011's DVDD (Digital Power Supply) = VS1003's CVDD (Core Power Supply).
+        
     Optional Audio Quality Improvements:
         Replace VS1011's 26MHz crystal with a 12.288MHz crystal and adjust the SCI_CLOCKF setting.
         Upgrade all power supply capacitors from 10nF to 100nF.
