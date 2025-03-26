@@ -12,11 +12,15 @@ Hardware Changes:
         Note: VS1011's DVDD (Digital Power Supply) = VS1003's CVDD (Core Power Supply).
         
     Optional Audio Quality Improvements:
+    
         Replace VS1011's 26MHz crystal with a 12.288MHz crystal and adjust the SCI_CLOCKF setting.
+        
         Upgrade all power supply capacitors from 10nF to 100nF.
 
 Software Changes (if not already set in VS1011):
+
     Replace the VS1011 patch with the VS1003 patch.
+    
     Change SM_LAYER12 to SM_SETTOZERO.
 
 This summarizes the necessary changes for a smooth transition from VS1011 to VS1003, ensuring compatibility and potential audio quality improvement.
